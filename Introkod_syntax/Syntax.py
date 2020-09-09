@@ -1,7 +1,7 @@
 print("hej TE19C")
 
-# skapar en variabel och tilldelar det värdet "maryam"
-name = "maryam"
+# skapar en variabel och tilldelar det värdet "Maryam"
+name = "Maryam"
 
 #print(name)
 print("Ditt namn är",name )
@@ -12,4 +12,4 @@ print("Ditt namn är",name )
 side = float(input("Ange kvadratens sida:)"))
 area = sida**2
 
-print(f"Arean av kvadraten är {area} a.e.")
+print(f"Arean av kvadraten är {area} a.e.") 
