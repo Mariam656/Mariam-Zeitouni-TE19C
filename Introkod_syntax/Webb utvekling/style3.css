@@ -1,0 +1,81 @@
+body{background-image: url(https://i.pinimg.com/564x/b5/48/59/b548593fbb0e12384a5504358ae64018.jpg);
+    background-size: 1000px, 400px;
+}
+
+.box{background-color:rgba(100,152,112);
+    width: 800px;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 220px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border-width: 5px;
+    border-color: #254736;
+    border-style: solid;
+    margin-top: 100px;
+}
+
+
+h1{font-family: arial;
+    font-size: 30px;
+}
+
+
+
+p{font-family: 'Times New Roman';
+    font-size: 17px;
+    line-height: 23px;
+    padding-left: 5px;
+}
+
+.box3{background-image: url(https://www.divento.com/14339/university-college-london.jpg);
+    background-size: 300px, 200px;
+    background-repeat: no-repeat;
+    background-color:rgba(100,152,112);
+    width: 800px;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 220px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border-width: 5px;
+    border-color: #254736;
+    border-style: solid;
+    margin-top: 100px;
+    background-position-x: 400px;
+    background-position-y: 230px;
+}
+
+
+.box4{background-image: url(https://i.pinimg.com/564x/f4/37/6e/f4376e664490909f264cb5d35b845ab0.jpg);
+    background-size: 250px, 250px;
+    background-repeat: no-repeat;
+    background-color:rgba(100,152,112);
+    width: 800px;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 220px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border-width: 5px;
+    border-color: #254736;
+    border-style: solid;
+    margin-top: 100px;
+    background-position-x: 500px;
+    background-position-y: 50px;
+}
+
+.häst{width: 60%;
+    padding-left: 5px;
+    margin-top: -40px;
+}
+
+.UCL{width: 250px;
+    height: auto;
+    padding-left: 80px;
+    padding-top: 15px;
+}
+
+
+
+
